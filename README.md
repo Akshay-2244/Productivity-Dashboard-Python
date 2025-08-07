@@ -60,3 +60,18 @@ productivity-dashboard-python/
 └── .gitignore
 
 ---
+
+## 🚀 How to Run
+
+1. Make sure you have **Python 3.x** installed.
+2. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/productivity-dashboard-python
+   cd productivity-dashboard-python
+   python main.py
+
+---
+
+
+
