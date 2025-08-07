@@ -3,7 +3,7 @@ from tkinter import messagebox
 import datetime
 import threading
 import time
-import winsound
+import winsound  # For beep sound when alarm hits
 
 
 # Alarm App
@@ -81,6 +81,8 @@ class AlarmApp:
         while True:
             now = datetime.datetime.now().time()
             if now.hour == self.alarm_time.hour and now.minute == self.alarm_time.minute:
+
+                # Ignore if you don't need beep sound
                 winsound.Beep(1000, 1000)
                 messagebox.showinfo("Alarm", "⏰ Time's up!")
                 break
