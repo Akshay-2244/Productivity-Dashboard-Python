@@ -65,3 +65,4 @@ class QuoteApp:
             quote = f"Error fetching quote. \n{e}"
 
         self.quote_label.config(text=quote)
+
