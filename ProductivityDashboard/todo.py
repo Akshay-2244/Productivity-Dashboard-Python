@@ -164,3 +164,4 @@ class TodoApp:
 
         # Load tasks from file and display them in the UI
         self.update_listbox()
+
