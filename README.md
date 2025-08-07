@@ -67,7 +67,7 @@ productivity-dashboard-python/
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/productivity-dashboard-python
+   git clone https://github.com/Akshay-2244/Productivity-Dashboard-Python.git
    cd productivity-dashboard-python
    python main.py
 
