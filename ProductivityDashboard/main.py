@@ -35,3 +35,4 @@ QuoteApp(quote_frame)
 
 # Start the application
 root.mainloop()
+
