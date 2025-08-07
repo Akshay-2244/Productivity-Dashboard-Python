@@ -68,7 +68,7 @@ productivity-dashboard-python/
 
    ```bash
    git clone https://github.com/Akshay-2244/Productivity-Dashboard-Python.git
-   cd productivity-dashboard-python
+   cd productivity-dashboard-python/ProductivityDashboard
    python main.py
 
 ---
