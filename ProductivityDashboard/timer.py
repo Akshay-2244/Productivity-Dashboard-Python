@@ -85,3 +85,4 @@ class TimerApp:
         self.running = False
         self.time = 0
         self.label.config(text=self.format_time())
+
